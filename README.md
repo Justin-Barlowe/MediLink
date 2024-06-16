@@ -32,7 +32,7 @@ MediLink is an appointment scheduling system designed to streamline the process 
 
 ## Installation
 ### Prerequisites
-- Node.js (v14.x or higher)
+- Node.js (v18.x or higher)
 - Angular CLI (v18.x)
 
 ### Steps
