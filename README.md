@@ -22,7 +22,7 @@ MediLink is an appointment scheduling system designed to streamline the process 
 - **Analytics:** Track appointment trends and provider availability.
 
 ## Technologies Used
-- **Front-End:** Angular 16, Bootstrap
+- **Front-End:** Angular 18, Bootstrap
 - **Back-End:** Node.js, Express.js, MongoDB, Mongoose
 - **Authentication:** Passport.js, JWT
 - **Notifications:** Nodemailer, Twilio
@@ -33,8 +33,7 @@ MediLink is an appointment scheduling system designed to streamline the process 
 ## Installation
 ### Prerequisites
 - Node.js (v14.x or higher)
-- Angular CLI (v16.x) (v17 not supported currently)
-- MongoDB
+- Angular CLI (v18.x)
 
 ### Steps
 1. **Clone the repository:**
