@@ -5,7 +5,7 @@
 /tmp
 /out-tsc
 /bazel-out
-server/utils/.env
+server/utils/config.js
 
 # Node
 /node_modules
