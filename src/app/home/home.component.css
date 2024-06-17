@@ -1,0 +1,12 @@
+.section {
+  min-height: 3vh; /* Set the minimum height to the height of the viewport */
+  width: 100%; /* Set the width to 100% */
+}
+
+.bg-color-1 {
+  background-color: #014154; /* Replace with your first color */
+}
+
+.bg-color-2 {
+  background-color: #f9efef; /* Replace with your second color */
+}
