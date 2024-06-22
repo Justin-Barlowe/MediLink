@@ -6,7 +6,7 @@
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
-// Appointments Schema
+// Appointments Schema, will probably change.
 const AppointmentsSchema = new Schema({
     date: {
         type: Date,
