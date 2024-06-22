@@ -59,6 +59,7 @@ app.use('/api/appointments', AppointmentsAPI);
 // Further API routes will be added here
 
 // Serve static files from the Angular app build directory.
+// Pretty sure this changed with Angular 17, we will see on build.
 app.get('*', (req, res) => {
   res.sendFile(path.join(__dirname, '../client/dist/client/index.html'));
 });
