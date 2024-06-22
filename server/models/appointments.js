@@ -18,7 +18,7 @@ const AppointmentsSchema = new Schema({
     },
     patient: {
         type: Schema.Types.ObjectId,
-        ref: 'Patient',
+        ref: 'Patient', // Will probably end up binding to user. Patient is a placeholder.
         required: true
     },
     doctor: {
