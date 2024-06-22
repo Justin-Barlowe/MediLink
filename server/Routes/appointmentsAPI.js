@@ -2,7 +2,7 @@
 // Justin Barlowe
 // 06/17/2024
 
-// Loosely put together to get server running. Will need to be updated with actual API endpoints.
+// Loosely put together to get server running for testing. Will need to be updated with actual API endpoints.
 
 const express = require('express');
 const router = express.Router();
